@@ -8,14 +8,6 @@ This is my portfolio – a growing collection of projects, assignments, and expl
 ## 📁 Projects
 
 
-### 🐍 Python
-- **[Python 1 – DNA Analysis](https://github.com/Anja-Sche/Lab1_Anja_Scherwall_DE25)**  
-  Transform raw DNA data using Python, create graphs with Matplotlib.
-
-- **[Python 2 – Geometry OOP](https://github.com/Anja-Sche/Lab2_Anja_Scherwall)**  
-  Object-oriented implementation of geometric shapes with properties (area, perimeter), comparison operators, translation methods, error handling, and UML planning.  
-  ✨ *Bonus: 3D shapes and Matplotlib visualization.*
-
 ### 🗄️ SQL & Databases
 - **[SQL – DVD Rental Analysis](https://github.com/Anja-Sche/Lab_SQL_Anja_Scherwall_DE25)**  
   SQL analysis of DVD rental data using DuckDB and Pandas. EDA, visualizations, and BI dashboard.
